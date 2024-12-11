@@ -9,7 +9,7 @@ require (
 	github.com/deislabs/oras v0.8.1
 	github.com/disintegration/imaging v1.6.2
 	github.com/domodwyer/mailyak v3.1.1+incompatible
-	github.com/emicklei/go-restful v2.14.3+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-git/go-git/v5 v5.2.0
